@@ -14,7 +14,6 @@
 * 🎓 Final Year B.Tech CSE Student
 * 💻 MERN Stack Developer
 * ☕ Strong in Java & DSA
-* 🌱 Currently Learning Spring Boot & Microservices
 * 🚀 Passionate about Backend Development
 
 
@@ -81,12 +80,15 @@ Exposys Data Labs
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar25S&layout=compact&theme=tokyonight" />
 </p>
 
+ 🔥 DSA Journey
 
-🔥 DSA Journey
+🏆 Solved 500+ DSA Problems
 
-* Solving LeetCode Problems Daily
-* Strong in Arrays, Linked Lists, Trees & Graphs
-* Java for Competitive Programming
+💻 Regularly practicing on LeetCode and GeeksforGeeks
+
+🌳 Strong understanding of Trees, Graphs and Dynamic Programming
+
+⚡ Focused on problem-solving and optimized solutions
 
 
  📫 Connect With Me
