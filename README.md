@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Java+Developer;DSA+Enthusiast;Open+to+Internships+and+Full-Time+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;DSA+Enthusiast;Open+to+Internships+and+Full-Time+Roles" />
 </p>
 
 
