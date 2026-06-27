@@ -53,22 +53,26 @@ https://ats-resume-checker-inky.vercel.app
 
 
 
- 🌐 Personal Portfolio
+🌐 Personal Portfolio
 
-Professional portfolio showcasing projects, skills and experience.
+Tech Stack: React, Vite, Tailwind CSS
+
+* Showcases projects, skills and experience
+* Responsive and modern UI
+* Integrated project links and contact information
 
 🌐 Live Demo:
 https://sonu-portfolio-jet.vercel.app
 
 
- 💼 Experience
- Software Development Intern
+💼 Experience
 
-Exposys Data Labs
+Software Development Intern | Exposys Data Labs
 
-* Worked on software development projects
-* Collaborated with development teams
-* Improved backend functionality
+- Developed web applications using modern web technologies
+- Worked on frontend and backend development tasks
+- Collaborated with team members on real-world software projects
+- Gained hands-on experience in the software development lifecycle
 
  📊 GitHub Stats
 
@@ -91,13 +95,16 @@ Exposys Data Labs
 ⚡ Focused on problem-solving and optimized solutions
 
 
- 📫 Connect With Me
+📫 Connect With Me
 
-📧 Email:sonukr2003saguni@gmail.com
+📧 Email: [sonukr2003saguni@gmail.com](mailto:sonukr2003saguni@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/sonu-kumar25 
+💼 LinkedIn: [www.linkedin.com/in/sonu-kumar25](http://www.linkedin.com/in/sonu-kumar25)
 
-🔗 GitHub: https://github.com/Sonukumar25S
+🌐 Portfolio: https://sonu-portfolio-jet.vercel.app
 
-💼 Portfolio: https://sonu-portfolio-jet.vercel.app
+🔗 LeetCode: https://leetcode.com/u/Coderthings/
+
+🐙 GitHub: https://github.com/Sonukumar25S
+
 
